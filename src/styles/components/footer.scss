@@ -1,0 +1,21 @@
+.footer {
+  .footer-top {
+    span {
+      font-weight: 500;
+      font-size: 15px;
+    }
+    .list-group-item {
+      padding: .1rem .1rem .1rem .5rem;
+      border: none;
+      font-size: 15px;
+      font-weight: 400;
+    }
+  }
+  .footer-bottom {
+    p {
+      font-size: 12px;
+      margin: 0;
+      color: #551a8b !important;
+    }
+  }
+}

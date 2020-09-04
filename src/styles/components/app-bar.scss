@@ -1,0 +1,23 @@
+.app-bar {
+  background: url('/assets/imgs/lines/lines5.gif');
+
+  .logo {
+    width: 260px;
+    height: 80px;
+  }
+
+  .nav-link {
+    font-weight: bold;
+    color: #551a8b !important;
+    margin: .25rem;
+  }
+
+  .dropdown-item {
+    color: #551a8b !important;
+    font-weight: 400;
+  }
+
+  .always-above {
+    padding-right: 1rem;
+  }
+}

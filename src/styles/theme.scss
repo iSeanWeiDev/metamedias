@@ -1,0 +1,13 @@
+/* The following block can be included in a custom.scss */
+
+@import "~bootstrap/scss/bootstrap";
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+@media (min-width: 1600px) {
+  .container, .container-lg, .container-md, .container-sm, .container-xl {
+      max-width: 1440px;
+  }
+}
